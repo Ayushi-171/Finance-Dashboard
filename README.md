@@ -1,6 +1,6 @@
 # Finsight — Finance Dashboard
 
-🔗 **Live Demo:** [View Dashboard]()
+🔗 **Live Demo:** [View Dashboard](https://ayushi-171.github.io/Finance-Dashboard/)
 
 A clean and interactive finance dashboard built with HTML, CSS, and vanilla JavaScript.
 
@@ -13,7 +13,7 @@ Built as a screening assignment for the Frontend Developer Intern role at Zorvyn
 No installation needed.
 
 1. Download or clone this repository
-2. Open `zorvyn_finance_dashboard.html` in any browser
+2. Open `index.html` in any browser
 3. That's it!
 
 ---
